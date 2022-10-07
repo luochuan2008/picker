@@ -3,7 +3,7 @@
 namespace luochuan\DcatDistpicker\Grid;
 
 use Dcat\Admin\Grid\Displayers\AbstractDisplayer;
-use SuperEggs\DcatDistpicker\DcatDistpickerHelper;
+use luochuan\DcatDistpicker\DcatDistpickerHelper;
 
 class Distpicker extends AbstractDisplayer
 {
