@@ -1,6 +1,6 @@
 <?php
 
-namespace SuperEggs\DcatDistpicker\Filter;
+namespace luochuan\DcatDistpicker\Filter;
 
 use Dcat\Admin\Grid\Filter\Presenter\Presenter;
 

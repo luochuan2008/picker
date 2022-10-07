@@ -1,6 +1,6 @@
 <?php
 
-namespace SuperEggs\DcatDistpicker\Form;
+namespace luochuan\DcatDistpicker\Form;
 
 use Dcat\Admin\Form\Field;
 use Illuminate\Contracts\Foundation\Application;
