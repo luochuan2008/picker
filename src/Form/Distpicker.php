@@ -7,7 +7,7 @@ use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Contracts\Validation\Factory;
 use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Support\Arr;
-use SuperEggs\DcatDistpicker\DcatDistpickerHelper;
+use luochuan\DcatDistpicker\DcatDistpickerHelper;
 
 class Distpicker extends Field
 {
