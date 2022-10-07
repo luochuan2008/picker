@@ -1,5 +1,5 @@
 {
-    "name": "super-eggs/dcat-picker",
+    "name": "luochuan/dcat-picker",
     "description": "picker extension for dcat-admin",
     "alias": "省市区三级联动组件",
     "type": "library",
