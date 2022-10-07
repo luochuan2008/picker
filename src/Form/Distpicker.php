@@ -22,7 +22,7 @@ class Distpicker extends Field
      * @var array
      */
     protected static $js = [
-        '@extension/luochuan/dcat-distpicker/dist/distpicker.js',
+        '@extension/luochuan/dcat-picker/dist/distpicker.js',
     ];
 
     /**
