@@ -1,6 +1,6 @@
 # dcat-distpicker
 
-[Distpicker](https://github.com/fengyuanchen/distpicker) 是一个中国省市区三级联动选择组件，这个包是基于 `Distpicker` 的 `dcat-admin`
+此地址三级联动修改是在 [picker](https://github.com/fengyuanchen/distpicker)的基础上，修复了部分城市没有区镇的bug 是一个中国省市区三级联动选择组件，这个包是基于 `Distpicker` 的 `dcat-admin`
 扩展，用来将 `Distpicker` 集成进 `dcat-admin`的表单中。如果此插件给你带来的帮助，麻烦给我一个 `star`。如果在使用过程中发现地区不完整的情况，欢迎随时反馈给我。
 
 ## 推荐环境
