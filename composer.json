@@ -22,10 +22,10 @@
         }
     },
     "extra": {
-        "dcat-admin": "SuperEggs\\DcatDistpicker\\DcatDistpickerServiceProvider",
+        "dcat-admin": "luochuan\\DcatDistpicker\\DcatDistpickerServiceProvider",
         "laravel": {
             "providers": [
-                "SuperEggs\\DcatDistpicker\\DcatDistpickerServiceProvider"
+                "luochuan\\DcatDistpicker\\DcatDistpickerServiceProvider"
             ]
         }
     }
