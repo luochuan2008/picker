@@ -19,10 +19,10 @@
 
 ```shell
 # jqhph/dcat-admin 1.x
-composer require "super-eggs/dcat-distpicker:^1.0"
+composer require "luochuan/dcat-distpicker:^1.0"
 
 # jqhph/dcat-admin 2.x
-composer require "super-eggs/dcat-distpicker:^2.0"
+composer require "luochuan/dcat-distpicker:^2.0"
 ```
 
 然后: (dcat-admin 2.x 无需执行!!!)
@@ -128,7 +128,7 @@ $grid->column('district_id')->distpicker();
 并且提供了一个全局可用的辅助函数:
 
 ```php
-use SuperEggs\DcatDistpicker\DcatDistpickerHelper;
+use luochuan\DcatDistpicker\DcatDistpickerHelper;
 
 DcatDistpickerHelper::getAreaName($code); // return string
 ```

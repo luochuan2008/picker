@@ -9,6 +9,8 @@ use Illuminate\Contracts\Validation\Validator;
 use Illuminate\Support\Arr;
 use luochuan\DcatDistpicker\DcatDistpickerHelper;
 
+
+
 class Distpicker extends Field
 {
     /**
@@ -20,7 +22,7 @@ class Distpicker extends Field
      * @var array
      */
     protected static $js = [
-        '@extension/super-eggs/dcat-distpicker/dist/distpicker.js',
+        '@extension/luochuan/dcat-distpicker/dist/distpicker.js',
     ];
 
     /**

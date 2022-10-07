@@ -3313,7 +3313,7 @@ class DcatDistpickerHelper
      * 查询指定 code 的名称
      * @param  int|string  $code
      * @return string
-     * @author super-eggs
+     * @author luochuan
      */
     public static function getAreaName($code): string
     {
@@ -3325,7 +3325,7 @@ class DcatDistpickerHelper
      * @param  array  $keys
      * @param  array  $values
      * @return array
-     * @author super-eggs
+     * @author luochuan
      */
     public static function arrayCombine(array $keys, array $values): array
     {

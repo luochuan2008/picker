@@ -16,7 +16,7 @@ class DistpickerFilter extends AbstractFilter
     protected $column = [];
 
     protected static $js = [
-        '@extension/super-eggs/dcat-distpicker/dist/distpicker.js',
+        '@extension/luochuan/dcat-distpicker/dist/distpicker.js',
     ];
 
     /**
@@ -50,7 +50,7 @@ class DistpickerFilter extends AbstractFilter
 
     /**
      * @return string
-     * @author super-eggs
+     * @author luochuan
      */
     public function getElementName(): string
     {
@@ -59,7 +59,7 @@ class DistpickerFilter extends AbstractFilter
 
     /**
      * @return array
-     * @author super-eggs
+     * @author luochuan
      */
     public function getColumn(): array
     {
@@ -78,7 +78,7 @@ class DistpickerFilter extends AbstractFilter
     /**
      * @param  array  $inputs
      * @return array|array[]|mixed|void|null
-     * @author super-eggs
+     * @author luochuan
      */
     public function condition($inputs)
     {
@@ -132,7 +132,7 @@ class DistpickerFilter extends AbstractFilter
     /**
      * @param  array  $column
      * @return array|string
-     * @author super-eggs
+     * @author luochuan
      */
     public function formatName($column)
     {
@@ -149,7 +149,7 @@ class DistpickerFilter extends AbstractFilter
      * 格式编号
      * @param  array|string  $columns
      * @return string
-     * @author super-eggs
+     * @author luochuan
      */
     protected function formatId($columns): string
     {
