@@ -1,6 +1,6 @@
 <?php
 
-namespace SuperEggs\DcatDistpicker\Grid;
+namespace luochuan\DcatDistpicker\Grid;
 
 use Dcat\Admin\Grid\Displayers\AbstractDisplayer;
 use SuperEggs\DcatDistpicker\DcatDistpickerHelper;
